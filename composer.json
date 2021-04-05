@@ -1,0 +1,25 @@
+{
+    "name": "soandso/synop-application",
+    "description": "The Application plugin is intended for testing and approbation of the soandso/synop vendor library",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Dmytriyenko Vyacheslav",
+            "email": "dmytriyenko.vyacheslav@gmail.com"
+        }
+    ],
+    "config": {
+        "vendor-dir": "../../vendor"
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.4",
+        "soandso/synop": "^0.0.3"
+    },
+    "extra": {
+        "installer-path": {
+            "../{$name}/": ["type:wordpress-plugin"]
+        }
+    }
+}
