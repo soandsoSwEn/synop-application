@@ -6,7 +6,7 @@
  * Author: Author
  * Author URI: https://soandso.biz/
  * Version: 0.0.1
- * License: GPL2
+ * License: GPL-2.0-or-later
  * Text Domain: synop-application
  */
 
