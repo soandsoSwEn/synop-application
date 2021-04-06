@@ -4,6 +4,10 @@
 namespace Synop_Application\core;
 
 
+/**
+ * Class Container contains basic methods for working with application dependencies
+ * @package Synop_Application\core
+ */
 class Container
 {
     protected static $properties = [];
