@@ -2,7 +2,11 @@
 
 namespace Synop_Application\core;
 
-trait TSingltone
+/**
+ * Trait TSingleton implements the Singleton design pattern for the basic application methods to work
+ * @package Synop_Application\core
+ */
+trait TSingleton
 {
     private static $instance;
 
