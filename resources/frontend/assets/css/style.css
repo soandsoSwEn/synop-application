@@ -1,0 +1,57 @@
+.decodeBlock {
+    padding-top: 20px;
+    background-color: #fff;
+}
+
+.spanItemParameter {
+    background-color: #777;
+    border-radius: .25em;
+    vertical-align: baseline;
+    padding: .2em .6em .3em;
+    color: #fff;
+}
+
+.listItems {
+    padding-left: 0 !important;
+}
+
+.itemParameter {
+    list-style-type: none;
+}
+
+.alert {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+.alert-success {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+}
+
+.alert-danger {
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+}
+
+.listItems > li > h6 {
+    font-size: 12px;
+    line-height: 1.9em;
+}
+
+#submitDecoder {
+    padding: 9px;
+}
+
+.synopHomeDescription {
+    padding: 0px;
+    border: none;
+}
+
+.nv-page-title > h1 {
+    font-size: 38px;
+}
