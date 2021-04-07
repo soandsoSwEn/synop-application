@@ -1,0 +1,23 @@
+{
+  "name": "synop-application",
+  "version": "0.0.1",
+  "description": "Decoder for weather report",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soandsoSwEn/synop-application.git"
+  },
+  "author": "",
+  "license": "GPL-2.0-or-later",
+  "bugs": {
+    "url": "https://github.com/soandsoSwEn/synop-application/issues"
+  },
+  "homepage": "https://github.com/soandsoSwEn/synop-application#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-wp-pot": "^2.5.0"
+  }
+}
