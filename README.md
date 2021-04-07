@@ -6,7 +6,7 @@ WorPress plugin for testing and approbation of the [soandso/synop](https://packa
 
 1. Download Synop Application
 2. Upload the ‘synop-application’ directory to your ‘/wp-content/plugins/’ directory, using your favorite method (ftp, sftp, scp, etc…)
-3. Use composer to install the library. In the plugin folder, execute the command ```bash php composer.phar install ```
+3. Use composer to install the library. In the plugin folder, execute the command ```php composer.phar install ```
 4. Activate Synop Application from your Plugins page
 
 
