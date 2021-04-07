@@ -28,3 +28,9 @@ phpunit.phar
 
 # vagrant runtime
 /.vagrant
+
+# composer file
+/copposer.lock
+
+# npm file
+/package-lock.json
