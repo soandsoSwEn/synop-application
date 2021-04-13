@@ -20,7 +20,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": "^7.4",
-        "soandso/synop": "0.0.4"
+        "soandso/synop": "0.0.5"
     },
     "extra": {
         "installer-path": {

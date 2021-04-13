@@ -5,7 +5,7 @@
  * Plugin URI: https://soandso.biz/
  * Author: soandso
  * Author URI: https://soandso.biz/
- * Version: 0.1.1
+ * Version: 0.1.2
  * License: GPL-2.0-or-later
  * Text Domain: synop-application
  */
